@@ -1,0 +1,24 @@
+Pengembangan & Tooling (Lingkungan Kerja)
+Wajib Dikuasai:
+Remix IDE (untuk prototyping dan testing cepat).
+
+Hardhat atau Foundry (framework profesional untuk develop, test, deploy).
+
+Node.js & npm (untuk menjalankan script, integrasi dengan web3.js/ethers.js).
+
+Git & GitHub (version control dan kolaborasi).
+
+Testing & Debugging:
+Unit testing dengan Mocha/Chai (Hardhat) atau Forge (Foundry).
+
+Gas reporter, coverage report.
+
+Menggunakan console.log dari Hardhat (bukan di on-chain, tapi di simulasi).
+
+Deployment & Interaction:
+Environment variables (.env) untuk menyimpan private key, API key.
+
+Script deploy (misal deploy.js menggunakan Hardhat).
+
+Verifikasi kontrak di Etherscan via plugin.
+
